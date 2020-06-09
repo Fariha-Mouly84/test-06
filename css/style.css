@@ -1,0 +1,28 @@
+h1{
+	text-align: center;
+}
+		
+.border1{
+	border:5px solid red;
+	background-color: yellow;
+	margin-:10px 20px 10px;
+	padding:20px;
+}
+.border2{
+	border:5px double black;
+	margin:20px 0px;
+	padding:20px;
+}
+.border3{
+	padding: 20px;
+	background: blue;
+	border: 1px solid red;
+}
+.head{
+	color:green;
+}
+.inline a{
+	display: inline;
+	padding: 20px;
+	background: red;
+	border: 1px solid red;
